@@ -21,4 +21,4 @@ This repository is essentially the place where I'm going to store my studies in 
 
 ## How to to compile the css?
 
-1) With Sass installed, in the main directory, run the command `sass styles.sass css/styles.css`
+1) With Sass installed, in the main directory, run the command `sass sass/styles.sass css/styles.css`
