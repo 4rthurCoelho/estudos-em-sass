@@ -1,0 +1,17 @@
+{
+  "name": "tutorial-inicial-sass",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Arthur Coelho",
+  "license": "ISC",
+  "dependencies": {
+    "http-server": "^14.1.1",
+    "npm-server": "^0.0.1",
+    "sass": "^1.66.1"
+  }
+}
